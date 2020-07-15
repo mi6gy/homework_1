@@ -44,7 +44,7 @@ You are required to submit the following for review:
 <!-- DEPLOYED VIA GITHUB -->
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-<!-- dont forget the readme -->
+<!-- dont forget the read me! -->
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
